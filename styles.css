@@ -1,9 +1,13 @@
-h1{color: rgb(166, 203, 216)}
+h1{color: rgb(149, 192, 208); }
 
-body{font-family: 'Montserrat', sans-serif;
+body{font-family: 'Montserrat', sans-serif;}
 
-}
+h2{color: rgb(166, 203, 216) ;}
 
-nav {background-color: #f2e6d9; }
+h3{color: rgb(184, 213, 224)}
 
-/* Gewünschte Farbe /*
+
+
+nav {background-color: #f2e6d9; } /* Gewünschte Farbe /*
+
+
