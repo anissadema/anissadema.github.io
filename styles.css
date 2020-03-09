@@ -1,13 +1,33 @@
+
+
+
+
 h1{color: rgb(149, 192, 208); }
 
 body{font-family: 'Montserrat', sans-serif;}
 
 h2{color: rgb(166, 203, 216) ;}
 
+
+div {
+    width: 800px;
+    padding: 10px;
+    border: 3px solid #f2e6d9;
+    margin: 0;
+    } style
+
+ table, th, td{
+        table-layout: fixed;
+        width: 30%;
+        border-collapse: collapse;
+        border: 3px solid #f2e6d9;
+        }
+
 h3{color: rgb(184, 213, 224)}
 
+nav {background-color: #f2e6d9; } 
 
+/* Gewünschte Farbe /*
 
-nav {background-color: #f2e6d9; } /* Gewünschte Farbe /*
 
 
