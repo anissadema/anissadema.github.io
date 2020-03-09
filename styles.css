@@ -16,7 +16,25 @@ h1{color: rgb(149, 192, 208);
 h2{color: rgb(166, 203, 216) ;
     text-align: center;}        
 
-
+/* unbesuchter link */
+a:link {
+    color: black;
+  }
+  
+  /* besuchter link */
+  a:visited {
+    color: lightblue;
+  }
+  
+  /* Maus über link */
+  a:hover {
+    color: lightpink;
+  }
+  
+  /* ausgewählter link */
+  a:active {
+    color: lightskyblue;
+  }
 
 
  table, th, td{
@@ -39,4 +57,5 @@ div {
       }
 
       /* Mit text-align: center zentriert man/*
+      /* margin: 0 auto ist eine weitere Methode um zu zentrieren /*
                       
