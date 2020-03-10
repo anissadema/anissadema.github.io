@@ -9,6 +9,7 @@ body{font-family: 'Montserrat', sans-serif;
 nav {background-color: #f2e6d9; } 
 
 
+
 h1{color: rgb(149, 192, 208); 
     text-align: center;}
 
@@ -33,7 +34,7 @@ a:link {
   
   /* ausgewählter link */
   a:active {
-    color: lightskyblue;
+    color: lightsalmon;
   }
 
 
@@ -55,6 +56,15 @@ div {
     margin: 0 auto;
     text-align: center;
       }
+
+.mimosas{ width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;
+
+
+}
 
       /* Mit text-align: center zentriert man/*
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren /*
