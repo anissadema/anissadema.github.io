@@ -8,6 +8,31 @@ body{font-family: 'Montserrat', sans-serif;
 
 nav {background-color: #f2e6d9; } 
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f2e6d9;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:  whitesmoke;
+}
+
 
 
 h1{color: rgb(149, 192, 208); 
@@ -40,7 +65,8 @@ a:link {
 
  table, th, td{
         table-layout: fixed;
-        width: 30%;
+        width: 100px;
+        color: black;
         border-collapse: collapse;
         border: 3px solid #f2e6d9;
         margin: 0 auto}
@@ -58,6 +84,7 @@ div {
       }
 
 .mimosas{ width: 800px;
+  /*background-color: #f8f2ec; */
   padding: 10px;
   border: 3px solid rgb(219, 237, 243);
   margin: 0 auto;
