@@ -10,25 +10,25 @@ nav {background-color: #f2e6d9; }
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 0;    
   padding: 0;
   overflow: hidden;
   background-color: #f2e6d9;
 }
 
 li {
-  float: left;
+  float: left; /* damit linksbündig */
 }
 
 li a {
   display: block;
-  color: white;
+  color: whitesmoke;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+/* Farbänderung bei drüberfahren */
 li a:hover {
   background-color:  whitesmoke;
 }
@@ -41,6 +41,8 @@ h1{color: rgb(149, 192, 208);
 
 h2{color: rgb(166, 203, 216) ;
     text-align: center;}        
+
+
 
 /* unbesuchter link */
 a:link {
