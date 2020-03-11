@@ -109,7 +109,17 @@ div {
   margin: 0 auto;
   text-align: center;
 }
+footer{position: relative;
+    
+  margin-top: 100px;
+  width: 100%;
+  height: 70px;
+  background-color: whitesmoke;
+  color: black;
+  text-align: center;
+  vertical-align: middle;
 
+}
 
 
       /* Mit text-align: center zentriert man/*
