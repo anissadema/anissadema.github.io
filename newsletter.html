@@ -15,9 +15,8 @@
     </head>
       <!-- Das ist ein Kommentar-->
       <!--br heisst break und lässt neue Zeile beginnen-->
-    
-
 <body>
+
   <nav>
     <ul class = "topnav">
         <li><a href="home.html">Home</a></li> 
@@ -30,4 +29,24 @@
     </ul>
 </nav>
 
-         
+ <form action="action_page.php">
+    <div class="news">
+      <h2>Newsletter</h2>
+      <p>fiesta y siesta! <br>
+        Willst du immer auf neustem Stand sein und umgehend über neue Angebote informiert werden?
+        Dann abonniere den Newsletter!
+      </p>
+    </div>
+  
+    <div class="newsletter">
+      <input type="text" placeholder="Name" name="name" required>
+      <input type="text" placeholder="E-Mail Addresse" name="mail" required>
+      <label>
+        <input type="checkbox" checked="checked" name="subscribe"> Ja, ich stimme den AGB's zu.
+      </label>
+    </div>
+  
+    <div class="news">
+      <input type="submit" value="Abonnieren">
+    </div>
+  </form>        
