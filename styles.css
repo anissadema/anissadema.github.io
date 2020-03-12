@@ -72,7 +72,7 @@ a:link {
   }
 
 
- table, th, td{
+  table, th, td{
         table-layout: fixed;
         width: 100px;
         color: black;
@@ -84,13 +84,50 @@ h3{color: rgb(184, 213, 224);
     text-align: center;
  } 
 
-div {
+/* div {
     width: 800px;
     padding: 10px;
     border: 3px solid #f2e6d9;
     margin: 0 auto;
-    text-align: center;
-      }
+    text-align: center;} */
+
+.nassau {
+  width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;}
+
+.bambuddha {
+  width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;}
+
+.sapunta {
+  width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;}
+
+
+.karting {
+  width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;
+    }
+
+.vanquish {
+  width: 800px;
+  padding: 10px;
+  border: 3px solid #f2e6d9;
+  margin: 0 auto;
+  text-align: center;
+    }
 
 .mimosas{ width: 800px;
   /*background-color: #f8f2ec; */
