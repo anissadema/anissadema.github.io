@@ -15,16 +15,6 @@ nav {background-color: #f2e6d9;}
   background-color: #f2e6d9;
 }
 
-.titelbild{background-image: url(https://i.pinimg.com/736x/9f/73/7a/9f737afe0af6090f7317367a680990fb.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  height: 75%;
-  width: 100%;
-  margin: 0px
-}
-
 
 li {
   float: left; /* damit linksbündig */
