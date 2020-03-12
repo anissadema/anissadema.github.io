@@ -89,6 +89,15 @@ h3{color: rgb(184, 213, 224);
     text-align: center;
 } 
 
+.newsletter {
+  width: 800px;
+  padding: 10px;
+  border: palegoldenrod;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
 
 .nassau {
   width: 800px;
