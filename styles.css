@@ -188,6 +188,10 @@ transform: translate(-50%, -50%);
 color: white;
 }
 
+.heightwidth1 {
+height: 600;
+width: 1000;
+}
 
       /* Mit text-align: center zentriert man/*
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren /*
