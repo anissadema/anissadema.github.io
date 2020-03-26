@@ -90,7 +90,7 @@ h3{color: rgb(184, 213, 224);
 } 
 
 .newsletter {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: palegoldenrod;
   margin: 0 auto;
@@ -100,7 +100,7 @@ h3{color: rgb(184, 213, 224);
 
 
 .nassau {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
@@ -108,7 +108,7 @@ h3{color: rgb(184, 213, 224);
 }
 
 .bambuddha {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
@@ -116,7 +116,7 @@ h3{color: rgb(184, 213, 224);
 }
 
 .sapunta {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
@@ -125,7 +125,7 @@ h3{color: rgb(184, 213, 224);
 
 
 .karting {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
@@ -133,14 +133,14 @@ h3{color: rgb(184, 213, 224);
 }
 
 .vanquish {
-  width: 800px;
+  width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
   text-align: center;
 }
 
-.mimosas{ width: 800px;
+.mimosas{ width: 60%;
   /*background-color: #f8f2ec; */
   padding: 10px;
   border: 3px solid rgb(219, 237, 243);
