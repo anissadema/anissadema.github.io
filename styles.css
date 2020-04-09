@@ -6,6 +6,8 @@ body {font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
+
+
 nav {background-color: #f2e6d9;
 }
 
@@ -97,7 +99,10 @@ h3{color: rgb(184, 213, 224);
   text-align: center;
 }
 
-
+.gradientwb {
+  background:linear-gradient(90deg, rgba(246,220,185,1) 0%,
+   rgba(246,220,185,0.8533788515406162) 41%, rgba(0,212,255,0.5116421568627452) 100%);
+}
 
 .nassau {
   width: 60%;
