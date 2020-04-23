@@ -44,7 +44,9 @@ li {
   border-right: 1px solid whitesmoke; /* kleine Ränder zwischen den topnav begriffen */
 }
 
-
+#active {
+  font: bolder;
+}
 
 h1{color: rgb(149, 192, 208); 
     text-align: center;
@@ -77,6 +79,7 @@ a:link {
     color: lightsalmon;
   }
 
+  
 
 table, th, td{
   table-layout: fixed;
