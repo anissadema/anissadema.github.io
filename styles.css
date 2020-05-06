@@ -6,7 +6,6 @@ body {font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
-.pointer {cursor: pointer;}
 
 nav {background-color: #f2e6d9;
 }
@@ -245,6 +244,10 @@ width: 60%;
     max-width: 100%;
   }
 }
+
+
+
+
 
 
       /* Mit text-align: center zentriert man/*
