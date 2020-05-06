@@ -134,7 +134,7 @@ h3{color: rgb(184, 213, 224);
 
 
 .karting {
-  width: 60%;
+  width: calc(90% - 30%);
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
