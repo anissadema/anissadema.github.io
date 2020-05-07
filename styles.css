@@ -245,7 +245,6 @@ width: 60%;
   }
 }
 
-body {margin:0;height:2000px;}
 
 .icon-bar {
   position: fixed;
@@ -284,7 +283,11 @@ body {margin:0;height:2000px;}
   font-size: 30px;
 }
 
+.grid {
+display: grid;
+grid-template-columns: 25% 50% 25%;
 
+}
 
 
       /* Mit text-align: center zentriert man*/
