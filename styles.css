@@ -109,7 +109,7 @@ h3{color: rgb(184, 213, 224);
    rgba(246,220,185,0.8533788515406162) 41%, rgba(0,212,255,0.5116421568627452) 100%);
 }
 
-.nassau {
+.nassau, .bambuddha, .sapunta, .vanquish {
   width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
@@ -117,7 +117,7 @@ h3{color: rgb(184, 213, 224);
   text-align: center;
 }
 
-.bambuddha {
+/*.bambuddha {
   width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
@@ -148,7 +148,7 @@ h3{color: rgb(184, 213, 224);
   border: 3px solid #f2e6d9;
   margin: 0 auto;
   text-align: center;
-}
+} */
 
 .mimosas{ width: 60%;
   /*background-color: #f8f2ec; */
