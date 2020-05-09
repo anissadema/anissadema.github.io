@@ -313,7 +313,7 @@ width: 60%;
 }
 
 .palmesvg {
-  z-index: 10;
+  z-index: auto;
 }
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
