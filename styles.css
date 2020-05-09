@@ -4,6 +4,8 @@
 
 body {font-family: 'Montserrat', sans-serif;
     text-align: center;
+    background-color: var(--background); /*für darkmode*/
+    color: var(--color);
 }
 
 
@@ -294,7 +296,18 @@ width: 60%;
   }
 }
 
+/* dark mode*/
 
+html {
+--background: white;
+--color: black;
+}
+@media (prefers-color-scheme: dark) {
+html {--background: black;
+       --color: white; }
+
+
+}
 
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
