@@ -310,10 +310,11 @@ width: 60%;
   nav a::before {background: white; transform-origin: left;}   
   footer {background-color: black;
           color: white;}
-
-
 }
 
+.palmesvg {
+  z-index: 10;
+}
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
                       
