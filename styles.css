@@ -4,8 +4,7 @@
 
 body {font-family: 'Montserrat', sans-serif;
     text-align: center;
-    background-color: var(--background); /*für darkmode*/
-    color: var(--color);
+    background-color: white;
 }
 
 
@@ -298,13 +297,18 @@ width: 60%;
 
 /* dark mode*/
 
-html {
---background: white;
---color: black;
-}
-@media (prefers-color-scheme: dark) {
-html {--background: black;
-       --color: white; }
+@media screen and (prefers-color-scheme: dark) {
+  body {background-color: black}
+  p{color: white;}
+  h1 {color: white;}
+  h2 {color: white;}
+  h3 {color: white;}
+  li {color: white;}
+  .topnav{ background-color: black;
+          color: white;}
+  nav a:hover{color: grey;}
+  nav a::before {background: white; transform-origin: left;
+}   
 
 
 }
