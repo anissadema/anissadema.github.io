@@ -310,6 +310,15 @@ width: 60%;
 .palmesvg {
   z-index: auto;
 }
+
+/*Zufallsgenerator*/
+
+.delete {
+  padding-left:20px;
+  cursor:help;
+}
+
+
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
                       
