@@ -307,8 +307,9 @@ width: 60%;
   .topnav{ background-color: black;
           color: white;}
   nav a:hover{color: grey;}
-  nav a::before {background: white; transform-origin: left;
-}   
+  nav a::before {background: white; transform-origin: left;}   
+  footer {background-color: black;
+          color: white;}
 
 
 }
