@@ -300,7 +300,7 @@ width: 60%;
   li a:hover{color: grey;}
   li a {color: salmon;}
   li a:before {background: white; transform-origin: left;}   
-  a :link {color: whitesmoke;}
+  a :link {color: whitesmoke;}                                    /*funktioniert irgendwie nicht? */
   a :hover {color: salmon;}
   a :visited {color: lavender;}
   footer {background-color: black;
