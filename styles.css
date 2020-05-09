@@ -110,7 +110,7 @@ h3{color: rgb(184, 213, 224);
    rgba(246,220,185,0.8533788515406162) 41%, rgba(144, 224, 240, 0.512) 100%);
 }
 
-.nassau, .bambuddha, .sapunta, .vanquish {
+.nassau, .bambuddha, .sapunta, .vanquish, .karting, .mimosas {
   width: 60%;
   padding: 10px;
   border: 3px solid #f2e6d9;
@@ -118,13 +118,6 @@ h3{color: rgb(184, 213, 224);
   text-align: center;
 }
 
-.mimosas{ width: 60%;
-  /*background-color: #f8f2ec; */
-  padding: 10px;
-  border: 3px solid rgb(219, 237, 243);
-  margin: 0 auto;
-  text-align: center;
-}
 footer{position: relative;
     
   margin-top: 100px;
