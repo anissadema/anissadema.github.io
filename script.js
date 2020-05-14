@@ -88,3 +88,30 @@ ermittelnKnopf.addEventListener("click", function(){
 function giveRandomItem (array) {
  return array[Math.floor(Math.random() * array.length)];
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}

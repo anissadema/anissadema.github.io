@@ -328,12 +328,11 @@ width: 60%;
 
 #teilnehmerliste {
 list-style-type: none;
+color: lightcoral;
 
 }
 
-.row {
-width: 100%;
-}
+
 
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
