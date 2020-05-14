@@ -314,7 +314,8 @@ width: 60%;
 }
 
 .palmesvg :hover {
-  transform: rotate(90deg)
+  transform: rotate(90deg);
+  cursor: grab;
 }
 
 /*Zufallsgenerator*/
