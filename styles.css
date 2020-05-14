@@ -309,17 +309,22 @@ width: 60%;
 
 .palmesvg {
   z-index: auto;
-  zoom: 60%;
+  zoom: 0.8;
   
 }
 
 .palmesvg :hover {
   transform: rotate(3deg);
+  transition: 2s;
   cursor: grab;
 }
 
 /*Zufallsgenerator*/
 
+.delete {
+  padding-left:20px;
+  cursor: pointer;
+}
 
 
       /* Mit text-align: center zentriert man*/
