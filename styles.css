@@ -309,6 +309,12 @@ width: 60%;
 
 .palmesvg {
   z-index: auto;
+  zoom: 60%;
+  
+}
+
+.palmesvg :hover {
+  transform: rotate(90deg)
 }
 
 /*Zufallsgenerator*/
