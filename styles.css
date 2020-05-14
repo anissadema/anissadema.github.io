@@ -314,7 +314,7 @@ width: 60%;
 }
 
 .palmesvg :hover {
-  transform: rotate(90deg);
+  transform: rotate(3deg);
   cursor: grab;
 }
 
