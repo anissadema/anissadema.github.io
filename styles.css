@@ -20,12 +20,12 @@ nav {background-color: #f2e6d9;
 }
 
 
-li {
+nav li {
   float: left; /* damit linksbündig */
   border-right: 1px solid whitesmoke; /* kleine Ränder zwischen den topnav begriffen */
 }
 
-li a {
+nav li a {
   display: block;
   color: whitesmoke;
   text-align: center;
@@ -34,7 +34,7 @@ li a {
 }
 
 /* Farbänderung bei drüberfahren */
-li a:hover {
+nav li a:hover {
   background-color:  whitesmoke;
 }
 
@@ -297,9 +297,9 @@ width: 60%;
   li {color: whitesmoke;}
   .topnav{ background-color: rgb(0, 0, 0);
           color: whitesmoke;}
-  li a:hover{color: grey;}
-  li a {color: salmon;}
-  li a:before {background: white; transform-origin: left;}   
+  nav li a:hover{color: grey;}
+  nav li a {color: salmon;}
+  nav li a:before {background: white; transform-origin: left;}   
   a :link {color: whitesmoke;}                                    /*funktioniert irgendwie nicht? */
   a :hover {color: salmon;}
   a :visited {color: lavender;}
@@ -326,6 +326,14 @@ width: 60%;
   cursor: pointer;
 }
 
+#teilnehmerliste {
+list-style-type: none;
+
+}
+
+.row {
+width: 100%;
+}
 
       /* Mit text-align: center zentriert man*/
       /* margin: 0 auto ist eine weitere Methode um zu zentrieren */
