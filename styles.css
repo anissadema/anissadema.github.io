@@ -298,14 +298,12 @@ width: 60%;
   .topnav{ background-color: darkgrey;
           color: whitesmoke;}
   nav li a:hover{color: grey;}
-  nav li a {color: salmon;}
-  /*nav li a:before {background: white; transform-origin: left;}   
   a :link {color: whitesmoke;}                                    
   a :hover {color: salmon;}
   a :visited {color: lavender;}
   footer {background-color: darkgrey;
           color: white;} 
-}  */
+
 }
 
 
