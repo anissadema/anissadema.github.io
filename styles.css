@@ -295,7 +295,7 @@ width: 60%;
   h1 {color: whitesmoke;}
   h2 {color: whitesmoke;}
   li {color: whitesmoke;}
-  .topnav{ background-color: rgb(0, 0, 0);
+  .topnav{ background-color: darkgrey;
           color: whitesmoke;}
   nav li a:hover{color: grey;}
   nav li a {color: salmon;}
