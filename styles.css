@@ -303,7 +303,7 @@ width: 60%;
   a :link {color: whitesmoke;}                                    /*funktioniert irgendwie nicht? */
   a :hover {color: salmon;}
   a :visited {color: lavender;}
-  footer {background-color: black;
+  footer {background-color: darkgrey;
           color: white;}
 }
 
