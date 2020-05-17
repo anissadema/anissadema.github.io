@@ -299,13 +299,15 @@ width: 60%;
           color: whitesmoke;}
   nav li a:hover{color: grey;}
   nav li a {color: salmon;}
-  nav li a:before {background: white; transform-origin: left;}   
-  a :link {color: whitesmoke;}                                    /*funktioniert irgendwie nicht? */
+  /*nav li a:before {background: white; transform-origin: left;}   
+  a :link {color: whitesmoke;}                                    
   a :hover {color: salmon;}
   a :visited {color: lavender;}
   footer {background-color: darkgrey;
-          color: white;}
+          color: white;} 
+}  */
 }
+
 
 .palmesvg {
   z-index: auto;
