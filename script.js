@@ -81,7 +81,7 @@ ermittelnKnopf.addEventListener("click", function(){
     	  var gewinner = giveRandomItem(teilnehmerliste);
     		gewinnerString += gewinner;
     }
-    window.alert("Die oder der Gewinner ist: " + gewinnerString + "");
+    window.alert("Ermittelte Aktivität: " + gewinnerString + "");
     console.log(gewinnerString);
 });
 
