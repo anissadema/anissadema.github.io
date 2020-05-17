@@ -293,7 +293,7 @@ width: 60%;
   li {color: whitesmoke;}
   .topnav{ background-color: darkgrey;
           color: whitesmoke;}
-  a {color: whitesmoke ;}
+  a :link {color: whitesmoke ;}
   footer {background-color: darkgrey;
           color: white;} 
 
