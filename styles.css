@@ -297,10 +297,7 @@ width: 60%;
   li {color: whitesmoke;}
   .topnav{ background-color: darkgrey;
           color: whitesmoke;}
-  nav li a:hover{color: grey;}
-  a :link {color: whitesmoke;}                                    
-  a :hover {color: salmon;}
-  a :visited {color: lavender;}
+  a {color: whitesmoke ;}
   footer {background-color: darkgrey;
           color: white;} 
 
