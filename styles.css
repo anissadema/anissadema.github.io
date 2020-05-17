@@ -179,7 +179,7 @@ width: 60%;
 /* gleiche Kolonnen nebeneinander*/
 .column {
   flex: 25%;
-  max-width: 24.4%;
+  max-width: 40%;
   padding: 0 4px;
 }
 
