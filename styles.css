@@ -7,10 +7,6 @@ body {font-family: 'Montserrat', sans-serif;
     background-color: white;
 }
 
-
-/* nav {background-color: #f2e6d9;
-}
-*/
 .topnav {
   list-style-type: none;
   margin: 0;    
@@ -110,7 +106,7 @@ h3{color: rgb(184, 213, 224);
 }
 
 .nassau, .bambuddha, .sapunta, .vanquish, .karting, .mimosas {
-  width: 60%;
+  width: calc(60% + 5px);
   padding: 10px;
   border: 3px solid #f2e6d9;
   margin: 0 auto;
