@@ -239,7 +239,7 @@ width: 60%;
   font-size: 30px;
 }
 
-
+/*
 .topnav .search-container {
   float: right;
 }
@@ -281,7 +281,8 @@ width: 60%;
   .topnav input[type=text] {
     border: 1px solid whitesmoke;  
   }
-}
+} 
+*/
 
 /* dark mode*/
 
