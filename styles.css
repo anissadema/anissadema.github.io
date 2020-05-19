@@ -161,7 +161,7 @@ width: 60%;
 }
 
 @media screen and (max-width: 600px) {
-  .topnav, li {
+  .topnav, nav li {
   float: none;}
 }
 
